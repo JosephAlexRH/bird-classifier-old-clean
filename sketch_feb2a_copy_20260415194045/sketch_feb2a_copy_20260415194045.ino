@@ -14,8 +14,8 @@
 #include <FS.h>
 
 //WiFi configuration
-const char* ssid = "EE-68GCWZ";
-const char* password = "7TQmcK6dVfLqLgM9";
+const char* ssid = "";
+const char* password = "";
 
 //Laptop receiver
 const char* laptopIP = "192.168.1.129";
